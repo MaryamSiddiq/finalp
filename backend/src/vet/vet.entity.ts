@@ -9,14 +9,14 @@ export class Vet {
   @Column()
   name: string;
 
-
-  
   @Column()
   specialization: string;
 
   @Column()
   contact: string;
 
+
+  
   @Column()
   area: string;
 
